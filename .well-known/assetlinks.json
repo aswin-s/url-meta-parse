@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.tcs.connect",
+    "sha256_cert_fingerprints": ["A0:77:82:33:FB:EE:26:77:19:A8:CC:59:E2:C2:AC:BD:E8:3D:E8:49:8F:30:80:42:6C:3A:C4:36:4A:84:AA:73"]
+  }
+}]
